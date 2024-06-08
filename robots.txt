@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nymgt2003.github.io/sitemap.xml
