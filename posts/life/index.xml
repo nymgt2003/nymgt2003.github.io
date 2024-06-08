@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>日常 on 偶然间</title>
-    <link>https://nymgt2003.github.io/posts/life/</link>
+    <link>https://blog.singsingsing.party/posts/life/</link>
     <description>Recent content in 日常 on 偶然间</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 05 Jun 2024 20:41:00 +0800</lastBuildDate><atom:link href="https://nymgt2003.github.io/posts/life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2024 20:41:00 +0800</lastBuildDate><atom:link href="https://blog.singsingsing.party/posts/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>评论区加上了！</title>
-      <link>https://nymgt2003.github.io/posts/life/20240605_4/</link>
+      <link>https://blog.singsingsing.party/posts/life/20240605_4/</link>
       <pubDate>Wed, 05 Jun 2024 20:41:00 +0800</pubDate>
       
-      <guid>https://nymgt2003.github.io/posts/life/20240605_4/</guid>
+      <guid>https://blog.singsingsing.party/posts/life/20240605_4/</guid>
       <description>虽然没有什么卵用，但是得有 全程抄大佬的作业👉Hugo博客添加Twikoo评论 坏消息是……评论得翻墙 哈哈哈哈哈哈哈</description>
     </item>
     
     <item>
       <title>叫“偶然间”是因为……</title>
-      <link>https://nymgt2003.github.io/posts/life/20240605_3/</link>
+      <link>https://blog.singsingsing.party/posts/life/20240605_3/</link>
       <pubDate>Wed, 05 Jun 2024 15:46:33 +0800</pubDate>
       
-      <guid>https://nymgt2003.github.io/posts/life/20240605_3/</guid>
+      <guid>https://blog.singsingsing.party/posts/life/20240605_3/</guid>
       <description>原本是想叫“夜莺满世界乱唱”的 之前瞎鼓捣的时候也是用的这个名字 但后来倒腾这个模板的时候改主意了 其实就是突然想到了这句“偶然间心似缱” &lt;!DOCTYPE HTML&gt; 所以，就是它了！ 其实也很想插入蔡瑶铣给87版红楼配唱的版本啦 只是没有找到直接开唱开始的 也是懒得找了 还要干活呢</description>
     </item>
     
     <item>
       <title>自定义域名done</title>
-      <link>https://nymgt2003.github.io/posts/life/20240605_2/</link>
+      <link>https://blog.singsingsing.party/posts/life/20240605_2/</link>
       <pubDate>Wed, 05 Jun 2024 15:35:16 +0800</pubDate>
       
-      <guid>https://nymgt2003.github.io/posts/life/20240605_2/</guid>
+      <guid>https://blog.singsingsing.party/posts/life/20240605_2/</guid>
       <description>blog上线了之后真是什么鸡毛蒜皮都要来写一下 自定义域名搞定啦 什么都不懂自己摸索，等弄好了发现，我前面都在干什么啊？ 明明这么简单的操作 昨天被迫从早到晚上了一整天班，理论上今天应该可以休息的 可是有个急活儿的DDL在等着我 即使如此…… 我还是摸鱼到了现在</description>
     </item>
     
     <item>
       <title>上线啦</title>
-      <link>https://nymgt2003.github.io/posts/life/20240605_1/</link>
+      <link>https://blog.singsingsing.party/posts/life/20240605_1/</link>
       <pubDate>Wed, 05 Jun 2024 01:56:49 +0800</pubDate>
       
-      <guid>https://nymgt2003.github.io/posts/life/20240605_1/</guid>
+      <guid>https://blog.singsingsing.party/posts/life/20240605_1/</guid>
       <description>依然不知道到底是因为什么导致用原始theme就不加载外观，用sulv的模板就没有问题。 考虑要不要搞一下评论区 先去研究一下怎么绑到我的域名，买都买了，不用浪费</description>
     </item>
     
     <item>
       <title>最后还是靠改大佬模板</title>
-      <link>https://nymgt2003.github.io/posts/life/20240603_1/</link>
+      <link>https://blog.singsingsing.party/posts/life/20240603_1/</link>
       <pubDate>Mon, 03 Jun 2024 23:50:18 +0800</pubDate>
       
-      <guid>https://nymgt2003.github.io/posts/life/20240603_1/</guid>
+      <guid>https://blog.singsingsing.party/posts/life/20240603_1/</guid>
       <description>虽然也改了改，但是也不敢乱动 搜索终于可以用了，还多了很多其实我也用不上的东西 且看这次部署到GitHub外观还掉不掉</description>
     </item>
     
