@@ -2,110 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.singsingsing.party/posts/dream/2024/20240624_1/</loc>
+    <loc>http://localhost:1313/posts/life/2024/20240716/</loc>
+    <lastmod>2024-07-16T17:30:39+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-16T17:30:39+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/life/</loc>
+    <lastmod>2024-07-16T17:30:39+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-07-16T17:30:39+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/dream/2024/20240624_1/</loc>
     <lastmod>2024-06-24T01:21:17+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-06-24T01:21:17+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/posts/dream/</loc>
+    <loc>http://localhost:1313/posts/dream/</loc>
     <lastmod>2024-06-24T01:21:17+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/tags/%E6%98%86%E6%9B%B2/</loc>
+    <loc>http://localhost:1313/tags/%E6%98%86%E6%9B%B2/</loc>
     <lastmod>2024-06-24T01:21:17+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/</loc>
-    <lastmod>2024-06-24T01:21:17+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.singsingsing.party/posts/</loc>
-    <lastmod>2024-06-24T01:21:17+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.singsingsing.party/posts/dream/2024/20240616_1/</loc>
+    <loc>http://localhost:1313/posts/dream/2024/20240616_1/</loc>
     <lastmod>2024-06-16T18:49:30+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/tags/%E5%AD%A6%E6%88%8F/</loc>
+    <loc>http://localhost:1313/tags/%E5%AD%A6%E6%88%8F/</loc>
     <lastmod>2024-06-16T18:49:30+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/tags/%E8%8F%9C%E8%B0%B1/</loc>
+    <loc>http://localhost:1313/tags/%E8%8F%9C%E8%B0%B1/</loc>
     <lastmod>2024-06-11T21:51:55+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/posts/life/</loc>
+    <loc>http://localhost:1313/tags/%E4%B8%8B%E5%8E%A8/</loc>
     <lastmod>2024-06-11T21:51:55+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/tags/%E4%B8%8B%E5%8E%A8/</loc>
+    <loc>http://localhost:1313/tags/%E4%B8%AD%E9%A4%90/</loc>
     <lastmod>2024-06-11T21:51:55+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/tags/%E4%B8%AD%E9%A4%90/</loc>
+    <loc>http://localhost:1313/posts/life/2024/24611-1/</loc>
     <lastmod>2024-06-11T21:51:55+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/posts/life/2024/24611-1/</loc>
-    <lastmod>2024-06-11T21:51:55+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.singsingsing.party/tags/%E5%BF%AB%E6%89%8B%E8%8F%9C/</loc>
+    <loc>http://localhost:1313/tags/%E5%BF%AB%E6%89%8B%E8%8F%9C/</loc>
     <lastmod>2024-06-10T23:40:16+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/posts/life/2024/20240610_1/</loc>
+    <loc>http://localhost:1313/posts/life/2024/20240610_1/</loc>
     <lastmod>2024-06-10T23:40:16+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/posts/life/2024/2469-3/</loc>
+    <loc>http://localhost:1313/posts/life/2024/2469-3/</loc>
     <lastmod>2024-06-09T18:23:04+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/tags/%E4%B8%9C%E5%8D%97%E4%BA%9A%E9%A3%8E%E5%91%B3/</loc>
+    <loc>http://localhost:1313/tags/%E4%B8%9C%E5%8D%97%E4%BA%9A%E9%A3%8E%E5%91%B3/</loc>
     <lastmod>2024-06-09T18:23:04+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/posts/life/2024/2469-2/</loc>
+    <loc>http://localhost:1313/posts/life/2024/2469-2/</loc>
     <lastmod>2024-06-09T13:27:55+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/tags/%E4%B8%8D%E8%80%81%E6%AD%8C/</loc>
+    <loc>http://localhost:1313/tags/%E4%B8%8D%E8%80%81%E6%AD%8C/</loc>
     <lastmod>2024-06-09T02:20:52+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/posts/life/2024/2469-1/</loc>
+    <loc>http://localhost:1313/posts/life/2024/2469-1/</loc>
     <lastmod>2024-06-09T02:20:52+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/posts/life/2024/2468/</loc>
+    <loc>http://localhost:1313/posts/life/2024/2468/</loc>
     <lastmod>2024-06-08T23:57:38+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/tags/%E5%BB%BA%E7%AB%99/</loc>
+    <loc>http://localhost:1313/tags/%E5%BB%BA%E7%AB%99/</loc>
     <lastmod>2024-06-08T23:57:38+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/tags/%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%B7%A5%E4%BD%9C/</loc>
+    <loc>http://localhost:1313/tags/%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%B7%A5%E4%BD%9C/</loc>
     <lastmod>2024-06-08T23:57:38+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-06-06T14:57:28+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/posts/life/2024/2465-4/</loc>
+    <loc>http://localhost:1313/posts/life/2024/2465-4/</loc>
     <lastmod>2024-06-05T20:41:00+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/posts/life/2024/2465-3/</loc>
+    <loc>http://localhost:1313/posts/life/2024/2465-3/</loc>
     <lastmod>2024-06-05T15:46:33+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/posts/life/2024/2465-2/</loc>
+    <loc>http://localhost:1313/posts/life/2024/2465-2/</loc>
     <lastmod>2024-06-05T15:35:16+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/links/</loc>
+    <loc>http://localhost:1313/links/</loc>
     <lastmod>2024-06-05T15:15:53+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/posts/life/2024/2465-1/</loc>
+    <loc>http://localhost:1313/posts/life/2024/2465-1/</loc>
     <lastmod>2024-06-05T01:56:49+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/posts/life/2024/2463/</loc>
+    <loc>http://localhost:1313/posts/life/2024/2463/</loc>
     <lastmod>2024-06-05T01:56:49+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/posts/dream/2005/051028/</loc>
+    <loc>http://localhost:1313/posts/dream/2005/051028/</loc>
     <lastmod>2024-06-05T01:56:49+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/tags/les-miz/</loc>
+    <loc>http://localhost:1313/tags/les-miz/</loc>
     <lastmod>2024-06-05T01:56:49+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://blog.singsingsing.party/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url><url>
-    <loc>https://blog.singsingsing.party/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://blog.singsingsing.party/posts/travel/</loc>
+    <loc>http://localhost:1313/posts/travel/</loc>
   </url><url>
-    <loc>https://blog.singsingsing.party/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>建站 on 偶然间</title>
-    <link>https://blog.singsingsing.party/tags/%E5%BB%BA%E7%AB%99/</link>
+    <link>http://localhost:1313/tags/%E5%BB%BA%E7%AB%99/</link>
     <description>Recent content in 建站 on 偶然间</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 08 Jun 2024 23:57:38 +0800</lastBuildDate><atom:link href="https://blog.singsingsing.party/tags/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jun 2024 23:57:38 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>本站又活过来了！</title>
-      <link>https://blog.singsingsing.party/posts/life/2024/2468/</link>
+      <link>http://localhost:1313/posts/life/2024/2468/</link>
       <pubDate>Sat, 08 Jun 2024 23:57:38 +0800</pubDate>
       
-      <guid>https://blog.singsingsing.party/posts/life/2024/2468/</guid>
+      <guid>http://localhost:1313/posts/life/2024/2468/</guid>
       <description>这两天突击赶工也没有功夫弄站 赶工赶得非常生气，大领导非要在一些细枝末节上纠结。毫无必要，真的，没有人在意一楼的厕所门的性别指示牌比二楼的大1毫米！！！！（不是真的做厕所牌子，只是个比喻） 今天还加了一会儿班。如果昨天领导没有临时给我加一个活动我昨天就全都搞定了。 晚上终于重新搞了 搜到</description>
     </item>
     
     <item>
       <title>评论区加上了！</title>
-      <link>https://blog.singsingsing.party/posts/life/2024/2465-4/</link>
+      <link>http://localhost:1313/posts/life/2024/2465-4/</link>
       <pubDate>Wed, 05 Jun 2024 20:41:00 +0800</pubDate>
       
-      <guid>https://blog.singsingsing.party/posts/life/2024/2465-4/</guid>
+      <guid>http://localhost:1313/posts/life/2024/2465-4/</guid>
       <description>虽然没有什么卵用，但是得有 全程抄大佬的作业👉Hugo博客添加Twikoo评论 坏消息是……评论得翻墙 哈哈哈哈哈哈哈</description>
     </item>
     
     <item>
       <title>自定义域名done</title>
-      <link>https://blog.singsingsing.party/posts/life/2024/2465-2/</link>
+      <link>http://localhost:1313/posts/life/2024/2465-2/</link>
       <pubDate>Wed, 05 Jun 2024 15:35:16 +0800</pubDate>
       
-      <guid>https://blog.singsingsing.party/posts/life/2024/2465-2/</guid>
+      <guid>http://localhost:1313/posts/life/2024/2465-2/</guid>
       <description>blog上线了之后真是什么鸡毛蒜皮都要来写一下 自定义域名搞定啦 什么都不懂自己摸索，等弄好了发现，我前面都在干什么啊？ 明明这么简单的操作 昨天被迫从早到晚上了一整天班，理论上今天应该可以休息的 可是有个急活儿的DDL在等着我 即使如此…… 我还是摸鱼到了现在</description>
     </item>
     
     <item>
       <title>上线啦</title>
-      <link>https://blog.singsingsing.party/posts/life/2024/2465-1/</link>
+      <link>http://localhost:1313/posts/life/2024/2465-1/</link>
       <pubDate>Wed, 05 Jun 2024 01:56:49 +0800</pubDate>
       
-      <guid>https://blog.singsingsing.party/posts/life/2024/2465-1/</guid>
+      <guid>http://localhost:1313/posts/life/2024/2465-1/</guid>
       <description>依然不知道到底是因为什么导致用原始theme就不加载外观，用sulv的模板就没有问题。 考虑要不要搞一下评论区 先去研究一下怎么绑到我的域名，买都买了，不用浪费</description>
     </item>
     
     <item>
       <title>最后还是靠改大佬模板</title>
-      <link>https://blog.singsingsing.party/posts/life/2024/2463/</link>
+      <link>http://localhost:1313/posts/life/2024/2463/</link>
       <pubDate>Mon, 03 Jun 2024 23:50:18 +0800</pubDate>
       
-      <guid>https://blog.singsingsing.party/posts/life/2024/2463/</guid>
+      <guid>http://localhost:1313/posts/life/2024/2463/</guid>
       <description>虽然也改了改，但是也不敢乱动 搜索终于可以用了，还多了很多其实我也用不上的东西 且看这次部署到GitHub外观还掉不掉</description>
     </item>
     
