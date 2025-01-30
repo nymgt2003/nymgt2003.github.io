@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mastodon on 偶然间</title>
+    <link>https://blog.singsingsing.party/tags/mastodon/</link>
+    <description>Recent content in Mastodon on 偶然间</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 30 Jan 2025 15:23:53 +0800</lastBuildDate><atom:link href="https://blog.singsingsing.party/tags/mastodon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>技术白还是不要瞎鼓捣了吧</title>
+      <link>https://blog.singsingsing.party/posts/life/2025/20250130/</link>
+      <pubDate>Thu, 30 Jan 2025 15:23:53 +0800</pubDate>
+      
+      <guid>https://blog.singsingsing.party/posts/life/2025/20250130/</guid>
+      <description>我的毛象又小象砸键盘了。12月的时候有过一次，我搞不定，直接服务器重新回退到备份了。这次回退到备份别的都能显示，就是主页502。 烦躁，不想弄了。我严重怀疑是我当初建站的时候可能不小心哪里就出了一个屎山，现在越堆越大，终于崩了。于是朕决定不当这个土皇帝了。退位投奔拉链新建的miss</description>
+    </item>
+    
+  </channel>
+</rss>
