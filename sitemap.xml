@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.singsingsing.party/tags/</loc>
+    <lastmod>2026-09-16T02:20:54+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.singsingsing.party/tags/%E5%B9%BF%E6%92%AD%E5%89%A7/</loc>
+    <lastmod>2026-09-16T02:20:54+08:00</lastmod>
+  </url><url>
     <loc>https://blog.singsingsing.party/posts/dream/</loc>
+    <lastmod>2026-09-16T02:20:54+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.singsingsing.party/tags/%E7%87%8E%E5%8E%9F/</loc>
     <lastmod>2026-09-16T02:20:54+08:00</lastmod>
   </url><url>
     <loc>https://blog.singsingsing.party/posts/dream/2026/20260916/</loc>
@@ -12,6 +21,12 @@
     <lastmod>2026-09-16T02:20:54+08:00</lastmod>
   </url><url>
     <loc>https://blog.singsingsing.party/posts/</loc>
+    <lastmod>2026-09-16T02:20:54+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.singsingsing.party/tags/%E5%AE%8B%E7%8E%89%E7%AB%A0/</loc>
+    <lastmod>2026-09-16T02:20:54+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.singsingsing.party/tags/%E8%B5%B5%E6%AF%85/</loc>
     <lastmod>2026-09-16T02:20:54+08:00</lastmod>
   </url><url>
     <loc>https://blog.singsingsing.party/posts/life/</loc>
@@ -26,9 +41,6 @@
     <loc>https://blog.singsingsing.party/tags/sarah-brightman/</loc>
     <lastmod>2025-03-28T23:50:08+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/tags/</loc>
-    <lastmod>2025-03-28T23:50:08+08:00</lastmod>
-  </url><url>
     <loc>https://blog.singsingsing.party/tags/%E6%97%A5%E8%90%BD%E5%A4%A7%E9%81%93/</loc>
     <lastmod>2025-03-28T23:50:08+08:00</lastmod>
   </url><url>
@@ -41,16 +53,10 @@
     <loc>https://blog.singsingsing.party/posts/dream/2025/20250130/</loc>
     <lastmod>2025-01-30T22:04:05+08:00</lastmod>
   </url><url>
-    <loc>https://blog.singsingsing.party/tags/%E5%B9%BF%E6%92%AD%E5%89%A7/</loc>
-    <lastmod>2025-01-30T22:04:05+08:00</lastmod>
-  </url><url>
     <loc>https://blog.singsingsing.party/tags/%E6%B1%9F%E5%B1%B1%E8%AE%B8%E4%BD%A0/</loc>
     <lastmod>2025-01-30T22:04:05+08:00</lastmod>
   </url><url>
     <loc>https://blog.singsingsing.party/tags/%E7%BE%8A%E4%BB%94/</loc>
-    <lastmod>2025-01-30T22:04:05+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.singsingsing.party/tags/%E8%B5%B5%E6%AF%85/</loc>
     <lastmod>2025-01-30T22:04:05+08:00</lastmod>
   </url><url>
     <loc>https://blog.singsingsing.party/tags/mastodon/</loc>
